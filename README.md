@@ -60,6 +60,30 @@
       <code>C#</code> <code>.NET 8</code> <code>WinUI 3</code> <code>DuckyScript</code>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/plgonzalezrx8/mission-control">mission-control</a></strong><br/>
+      Open source dashboard for AI agent orchestration and operational visibility.<br/><br/>
+      <code>TypeScript</code> <code>Agents</code> <code>Dashboard</code> <code>Operations</code>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/plgonzalezrx8/clawtelemetry">clawtelemetry</a></strong><br/>
+      Real-time observability dashboard for OpenClaw AI agents and runtime metrics.<br/><br/>
+      <code>TypeScript</code> <code>Telemetry</code> <code>Observability</code> <code>OpenClaw</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/plgonzalezrx8/openclaw">openclaw</a></strong><br/>
+      Personal AI assistant infrastructure built for cross-platform orchestration and automation.<br/><br/>
+      <code>Node.js</code> <code>Automation</code> <code>Assistant Infra</code> <code>Open Source</code>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/plgonzalezrx8/zeroclaw">zeroclaw</a></strong><br/>
+      Fast, lightweight autonomous assistant infrastructure focused on practical deployment.<br/><br/>
+      <code>Node.js</code> <code>Lightweight</code> <code>Autonomy</code> <code>Agents</code>
+    </td>
+  </tr>
 </table>
 
 ## Open Source Areas I Care About
