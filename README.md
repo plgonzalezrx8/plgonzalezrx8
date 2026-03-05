@@ -62,26 +62,27 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/plgonzalezrx8/mission-control">mission-control</a></strong><br/>
-      Open source dashboard for AI agent orchestration and operational visibility.<br/><br/>
-      <code>TypeScript</code> <code>Agents</code> <code>Dashboard</code> <code>Operations</code>
+      <strong><a href="https://github.com/plgonzalezrx8/frozensapphire">frozensapphire</a></strong><br/>
+      A modular CMS built on Next.js with admin shell, role-based users, and Prisma-backed content workflows.<br/><br/>
+      <code>TypeScript</code> <code>Next.js</code> <code>CMS</code> <code>Prisma</code>
     </td>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/plgonzalezrx8/clawtelemetry">clawtelemetry</a></strong><br/>
-      Real-time observability dashboard for OpenClaw AI agents and runtime metrics.<br/><br/>
-      <code>TypeScript</code> <code>Telemetry</code> <code>Observability</code> <code>OpenClaw</code>
+      <strong><a href="https://github.com/plgonzalezrx8/stelo_extractor">stelo_extractor</a></strong><br/>
+      Rust CLI that extracts Apple Health glucose records into clean JSON for downstream analysis.
+      <br/><br/>
+      <code>Rust</code> <code>CLI</code> <code>Data Extraction</code> <code>Health Data</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/plgonzalezrx8/LunaLighthouse">LunaLighthouse</a></strong><br/>
-      Self-hosted software controller built with Flutter for clean local management workflows.<br/><br/>
-      <code>Flutter</code> <code>Self-Hosted</code> <code>Control Panel</code> <code>Cross-Platform</code>
+      <strong><a href="https://github.com/plgonzalezrx8/Color-Palette-Generator">Color-Palette-Generator</a></strong><br/>
+      Python utility that analyzes an image and generates practical color palettes for branding and UI design.<br/><br/>
+      <code>Python</code> <code>Design Tools</code> <code>Image Analysis</code>
     </td>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/plgonzalezrx8/your-pcs-sponsor">your-pcs-sponsor</a></strong><br/>
-      A web app helping military members find resources and local guidance for new PCS locations.<br/><br/>
-      <code>Web App</code> <code>Community</code> <code>Resources</code> <code>UX</code>
+      <strong><a href="https://github.com/plgonzalezrx8/ISP-Speed-Notifier">ISP-Speed-Notifier</a></strong><br/>
+      Network watchdog that runs periodic speed checks and helps document ISP performance degradation over time.<br/><br/>
+      <code>Python</code> <code>Networking</code> <code>Monitoring</code> <code>Automation</code>
     </td>
   </tr>
 </table>
