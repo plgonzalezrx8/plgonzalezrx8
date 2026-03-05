@@ -74,14 +74,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/plgonzalezrx8/openclaw">openclaw</a></strong><br/>
-      Personal AI assistant infrastructure built for cross-platform orchestration and automation.<br/><br/>
-      <code>Node.js</code> <code>Automation</code> <code>Assistant Infra</code> <code>Open Source</code>
+      <strong><a href="https://github.com/plgonzalezrx8/LunaLighthouse">LunaLighthouse</a></strong><br/>
+      Self-hosted software controller built with Flutter for clean local management workflows.<br/><br/>
+      <code>Flutter</code> <code>Self-Hosted</code> <code>Control Panel</code> <code>Cross-Platform</code>
     </td>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/plgonzalezrx8/zeroclaw">zeroclaw</a></strong><br/>
-      Fast, lightweight autonomous assistant infrastructure focused on practical deployment.<br/><br/>
-      <code>Node.js</code> <code>Lightweight</code> <code>Autonomy</code> <code>Agents</code>
+      <strong><a href="https://github.com/plgonzalezrx8/your-pcs-sponsor">your-pcs-sponsor</a></strong><br/>
+      A web app helping military members find resources and local guidance for new PCS locations.<br/><br/>
+      <code>Web App</code> <code>Community</code> <code>Resources</code> <code>UX</code>
     </td>
   </tr>
 </table>
